@@ -1,0 +1,8 @@
+sampling=5,5,5,5,5,5,5,0,0,0,8,0,0,0,0,0,0,0,0,0,120,256,120,256,120,256,256,256
+geometry=296,27,640,186,768,278,1,2,1,1,16000000,1024,5000,312,0,0,0
+palette=Mono_(2_level)
+palette_control=1
+output_colour=2
+output_invert=1
+crop_border=10
+border_colour=2
